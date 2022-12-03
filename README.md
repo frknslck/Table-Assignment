@@ -1,2 +1,2 @@
-<img src="alisverissepeti.jpg"><br>
-<img src="siniflistesi.jpg">
+<img src="../alisverissepeti.jpg"><br>
+<img src="../siniflistesi.jpg">
